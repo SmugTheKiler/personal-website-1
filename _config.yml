@@ -2,9 +2,7 @@ layout: sidebar
 style: light
 
 plugins:
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jemoji
+  - SmugTheKiler (Emir Gamaleev)
 
 permalink: /:year/:month/:day/:title/
 
@@ -44,7 +42,7 @@ projects:
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+   youtube: Emir VIPcool
 
 topics:
   - name: CSS
